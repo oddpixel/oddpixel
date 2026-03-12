@@ -20,7 +20,7 @@ I translate Figma prototypes into pixel-perfect, responsive web applications —
 
 ### Currently
 
-- Building high-fidelity web applications at [Storify Agency](https://pixelstory.ca) & [Odd Pixel](https://oddpixel.ca)
+- Building high-fidelity web applications at [Storify Agency](https://www.storifyagency.com) & [Odd Pixel](https://oddpixel.ca)
 - Exploring AI-augmented architecture patterns for rapid prototyping
 - Migrating legacy monolithic architectures to modern SPA stacks
 
